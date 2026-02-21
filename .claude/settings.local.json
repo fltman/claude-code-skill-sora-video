@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python*skills/sora-video/scripts/generate_video.py*)",
+      "Bash(pip install openai*)",
+      "Bash(git init:*)",
+      "Bash(git:*)"
+    ]
+  }
+}
