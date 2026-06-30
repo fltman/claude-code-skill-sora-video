@@ -1,5 +1,7 @@
 # Sora Video Generation Skill for Claude Code
 
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support%20my%20work-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/AndersBjarby)
+
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that generates AI videos using OpenAI's Sora API.
 
 ## Features
